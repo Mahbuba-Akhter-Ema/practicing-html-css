@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Banner start  */
+.banner {
+    background-image: url(images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+.banner-details {
+    width: 500px;
+    margin-left: 700px;
+    padding: 25px;
+}
+
+.banner-details h1 {
+    font-family: Work Sans;
+    font-size: 65px;
+    padding: 10px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #ffff;
+}
+
+.banner-details p {
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: right;
+    padding: 10px;
+    color: #ffff;
+}
+
+.banner-details button {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    height: 55px;
+    width: 160px;
+    left: 1210px;
+    top: 578px;
+    border-radius: 5px;
+    border-style: none;
+    color: #005FAC;
+    margin-top: 8px;
+    padding: 10px;
+    margin-left: 328px;
+}
+
+/* Banner End  */
+.about-section {
+    position: absolute;
+    width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    top: 639px;
+    display: flex;
+}
+
+.right-side{
+    margin-left: 30px;
+    padding: 20px;
+}
+.right-side h2 {
+    height: 94px;
+    width: 288px;
+    left: 862px;
+    top: 1178px;
+    margin-top: 200px;
+    border-radius: none;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 45px;
+
+    /* Dark 01 */
+
+    color: #151414;
+}
+
+.right-side p {
+    width: 380px;
+    left: 862px;
+    top: 1296px;
+    margin-top: 15px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* Dark 02 */
+    color: #444343;
+}
+
+.info{
+    display: flex;
+}
+.info span{
+    margin-top: 15px;
+    margin-right: 10px;
+    color:#16D887;
+}
+.info p{
+    margin-bottom: 10px;
+}
